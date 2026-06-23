@@ -11,6 +11,3 @@ FULLSTACK DEV | AI ML
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
----
-[![](https://komarev.com/ghpvc/?username=yashika-codes&icon=10&color=0)](https://visitcount.itsvg.in)
-
