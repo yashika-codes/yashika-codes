@@ -1,4 +1,4 @@
-# About Me: Hi, I'm Yashika! 🚀
+# About Me: Hi, I'm Yashika! 
 
 I am a full-stack developer and AI/ML enthusiast focused on building high-performance applications that solve real-world problems.
 
@@ -23,6 +23,4 @@ FULLSTACK DEV | AI ML
 ![](https://streak-stats.demolab.com/?user=yashika-codes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashika-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
