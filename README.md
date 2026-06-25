@@ -1,4 +1,17 @@
-# About Me:
+# About Me: # Hi, I'm Yashika! 🚀
+
+I am a full-stack developer and AI/ML enthusiast focused on building high-performance applications that solve real-world problems.
+
+## 🛠️ Skills Matrix
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C, C++, Python, Java, JavaScript, TypeScript, SQL |
+| **Frontend** | Next.js, React.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend & DB** | Node.js, Express.js, Fastify, REST APIs, MongoDB, MySQL, PostGIS |
+| **AI/ML & Web3** | RAG, Machine Learning Algorithms, NLP Heuristics, Generative AI Basics|
+| **Design & DevOps** | Git, GitHub, Vercel, Render, Figma, Adobe Illustrator |
+
 FULLSTACK DEV | AI ML 
 
 # 💻 Tech Stack:
